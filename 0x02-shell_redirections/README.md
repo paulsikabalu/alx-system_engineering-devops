@@ -1,0 +1,1 @@
+# 0x02 shell to rdirections and filters readme file
