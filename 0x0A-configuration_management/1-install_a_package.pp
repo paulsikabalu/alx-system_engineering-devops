@@ -1,3 +1,4 @@
+#!/usr/bin/pup
 #This code will install the package puppet-lint
 
 package { 'flask':
